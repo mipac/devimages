@@ -1,0 +1,4 @@
+# Contexte de build : seulement ce que le Dockerfile copie
+*
+!versions.sh
+!install/
